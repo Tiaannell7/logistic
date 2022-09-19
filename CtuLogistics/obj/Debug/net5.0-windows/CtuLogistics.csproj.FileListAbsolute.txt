@@ -1,0 +1,62 @@
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.exe
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.deps.json
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.runtimeconfig.json
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.runtimeconfig.dev.json
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\ref\CtuLogistics.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.pdb
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csprojAssemblyReference.cache
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.Properties.Resources.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.GenerateResource.cache
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AssemblyInfoInputs.cache
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AssemblyInfo.cs
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.CoreCompileInputs.cache
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.dll
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\ref\CtuLogistics.dll
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.pdb
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.genruntimeconfig.cache
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AddressForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.CustomerForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.DriverForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.FreightForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.HomeForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.StatusForm.resources
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nellt\source\repos\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nellt\source\repos\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.CopyComplete
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.exe
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.deps.json
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.runtimeconfig.json
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.runtimeconfig.dev.json
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\CtuLogistics.pdb
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.AssemblyReference.cache
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AddressForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.CustomerForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.DriverForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.FreightForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.HomeForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.Properties.Resources.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.StatusForm.resources
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.GenerateResource.cache
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AssemblyInfoInputs.cache
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.AssemblyInfo.cs
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.CoreCompileInputs.cache
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.csproj.CopyComplete
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\refint\CtuLogistics.dll
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.pdb
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\CtuLogistics.genruntimeconfig.cache
+E:\Tiaan\Documents\Work\2nd year\semester 1\PRG521\Summitive\CtuLogistics\obj\Debug\net5.0-windows\ref\CtuLogistics.dll
